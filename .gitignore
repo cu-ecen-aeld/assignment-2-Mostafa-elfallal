@@ -8,4 +8,3 @@ aesd-build
 test.sh.log
 .git/
 actions-runner/
-.github/
